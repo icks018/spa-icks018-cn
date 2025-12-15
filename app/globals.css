@@ -1,3 +1,7 @@
+@import '/phosphor-icons/regular/style.css';
+@import '/phosphor-icons/bold/style.css';
+@import '/phosphor-icons/fill/style.css';
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

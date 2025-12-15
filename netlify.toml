@@ -1,7 +1,0 @@
-[build]
-  base = "."
-  command = "npm install && npm run build"
-  publish = "out"
-
-[build.environment]
-  NODE_VERSION = "22.16.0"

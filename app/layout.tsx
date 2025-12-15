@@ -32,12 +32,6 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="zh-CN" className={zcoolXiaoWei.variable}>
-      <head>
-        {/* Phosphor Icons - 本地版本 */}
-        <link rel="stylesheet" href="/phosphor-icons/regular/style.css" />
-        <link rel="stylesheet" href="/phosphor-icons/bold/style.css" />
-        <link rel="stylesheet" href="/phosphor-icons/fill/style.css" />
-      </head>
       <body className="font-sans antialiased">
         <Header />
         <BottomNav />
